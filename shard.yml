@@ -1,0 +1,13 @@
+name: billy
+version: 0.1.0
+
+authors:
+  - lollar <mike@lollar.codes>
+
+crystal: 0.29.0
+
+license: MIT
+
+dependencies:
+  pg:
+    github: will/crystal-pg
